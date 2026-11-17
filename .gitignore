@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# your own trading state (plans, orders, portfolio) stays on your machine
+trader/

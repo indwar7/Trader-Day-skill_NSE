@@ -1,0 +1,20 @@
+{
+  "created_by": "nse-exit",
+  "symbol": "M&M",
+  "side": "buy",
+  "date": "2026-11-17",
+  "setup": "orb",
+  "entry": 3392.0,
+  "entry_time": "09:35",
+  "interval": "5m",
+  "opening_range": {"high": 3389.1, "low": 3355.3, "minutes": 15},
+  "stop": 3372.2,
+  "stop_rule": "or_mid",
+  "stop_label": "opening-range midpoint",
+  "target": 3411.8,
+  "target_r": 1.0,
+  "target_label": "1R (one times the risk)",
+  "risk_per_share": 19.8,
+  "reward_risk": 1.0,
+  "flat_by": "15:00"
+}

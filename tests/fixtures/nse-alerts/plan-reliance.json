@@ -1,0 +1,21 @@
+{
+  "created_by": "nse-exit",
+  "symbol": "RELIANCE",
+  "side": "buy",
+  "date": "2026-11-17",
+  "setup": "orb",
+  "entry": 1341.7,
+  "entry_time": "9:50 AM",
+  "entry_bar": 6,
+  "interval": "5m",
+  "opening_range": {"high": 1343.6, "low": 1337.7, "minutes": 15},
+  "stop": 1337.7,
+  "stop_rule": "or_low",
+  "stop_label": "opening-range low",
+  "target": 1345.7,
+  "target_r": 1.0,
+  "target_label": "1R (one times the risk)",
+  "risk_per_share": 4.0,
+  "reward_risk": 1.0,
+  "flat_by": "15:00"
+}

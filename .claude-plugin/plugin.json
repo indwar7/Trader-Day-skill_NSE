@@ -1,0 +1,14 @@
+{
+  "name": "nse-day-trader",
+  "description": "Nine Claude skills for NSE intraday trading with Groww: scan the Nifty 500, track news, time the entry, plan the exit, replay the session, size the trade with Groww charges, check your limits and get a ticket to place by hand.",
+  "version": "1.0.0",
+  "author": {
+    "name": "indwar7",
+    "url": "https://github.com/indwar7"
+  },
+  "homepage": "https://github.com/indwar7/Trader-Day-skill_NSE",
+  "repository": "https://github.com/indwar7/Trader-Day-skill_NSE",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "nse", "india", "intraday", "groww", "nifty", "day-trading", "opening-range-breakout"],
+  "skills": "./"
+}
